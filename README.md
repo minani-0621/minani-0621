@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CM2HCM2H&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CM2HCM2H&fontSize=80&animation=twinkling)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2hcm2h&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
