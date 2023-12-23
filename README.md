@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CM2HCM2H&fontSize=80&animation=twinkling)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2hcm2h&show_icons=true&theme=tokyonight)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm2hcm2h&show_icons=true&theme=tokyonight&hide_border=true)
 
-
+<a href="https://github.com/cm2hcm2h"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cm2hcm2h&layout=compact&theme=nord&hide_border=true" /></a>
 
 <!--
 **cm2hcm2h/cm2hcm2h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
