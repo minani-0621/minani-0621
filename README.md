@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MINANI-0621&fontSize=80&animation=twinkling)
 
 
-<div style="display: flex, height:180px">
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cm2hcm2h&show_icons=true&theme=tokyonight&hide_border=true" />
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cm2hcm2h&layout=compact&theme=nord&hide_border=true" />
+<div align=center, style="display: flex, height:180px">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cm2hcm2h&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cm2hcm2h&layout=compact&theme=nord&hide_border=true" />
+</div>
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<!--<p>✨ Languages ✨</p>-->
 </div>
 
 
