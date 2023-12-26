@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CM2HCM2H&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MINANI-0621&fontSize=80&animation=twinkling)
 
 
 <div style="display: flex, height:180px">
