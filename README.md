@@ -5,7 +5,11 @@
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=minani-0621&show_icons=true&theme=tokyonight&hide_border=true" />
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minani-0621&layout=compact&theme=nord&hide_border=true" />
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cm2hcm2h)](https://solved.ac/cm2hcm2h)
+<!--
+<div align=center>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cm2hcm2h)](https://solved.ac/cm2hcm2h)
+</div>
+-->
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
