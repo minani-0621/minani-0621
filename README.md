@@ -1,7 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MINANI-0621&fontSize=80&animation=twinkling)
 
 
-<div align=center, style="display: flex, height:180px">
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MINANI-0621&fontSize=80&animation=twinkling" />
+	<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MINANI-0621&fontSize=80&animation=twinkling) -->
+</div>
+<div align="center", height:180px">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=cm2hcm2h&show_icons=true&theme=tokyonight&hide_border=true" />
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cm2hcm2h&layout=compact&theme=nord&hide_border=true" />
 </div>
