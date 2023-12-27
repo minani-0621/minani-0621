@@ -5,9 +5,12 @@
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=minani-0621&show_icons=true&theme=tokyonight&hide_border=true" />
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minani-0621&layout=compact&theme=nord&hide_border=true" />
 </div>
+<!--
 <div align=center>
 	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cm2hcm2h)](https://solved.ac/cm2hcm2h)
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cm2hcm2h)](https://solved.ac/cm2hcm2h)
 </div>
+-->
 <br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
