@@ -10,6 +10,7 @@
 	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cm2hcm2h)](https://solved.ac/cm2hcm2h)
 </div>
 -->
+<br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -23,7 +24,7 @@
 	<img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white" />
 	<br>
  	<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat&logo=oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
 </div>
 <br>
 <div align=center>
