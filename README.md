@@ -16,15 +16,16 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white" />
 	<br>
+	<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat" />
 	<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=Android&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
  	<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat&logo=oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
