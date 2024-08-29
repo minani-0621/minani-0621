@@ -50,7 +50,7 @@
 	<h3>👨‍💻 Experience 👨‍💻</h3>
 	<p>🔘 Kyonggi.Univ - Department of Computer Engineering (2019.03 ~ ing)<br>▸GPA(Total) : 3.79 / 4.5<br>▸GPA(Major) : 3.98 / 4.5</p>
 	<p>🔘 K-Software-Empowerment-BootCamp 2기 (2022.12 ~ 2023.08)</p>
-	<p>🔘 현대자동차그룹 소프티어 부트캠프 4기 - 웹프론트엔드 (2024.7 ~ ing)</p>
+	<p>🔘 현대자동차그룹 소프티어 부트캠프 4기 - 웹프론트엔드 (2024.7 ~ 2024.8)</p>
 </div>
 <br>
 <div align=center>
