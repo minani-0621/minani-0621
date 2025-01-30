@@ -50,16 +50,16 @@
 	<h3>👨‍💻 Experience 👨‍💻</h3>
 	<p>🔘 Kyonggi.Univ - Department of Computer Engineering (2019.03 ~ 2025.02)<br>▸GPA(Total) : 3.8 / 4.5<br>▸GPA(Major) : 3.98 / 4.5</p>
 	<p>🔘 K-Software-Empowerment-BootCamp 2기 (2022.12 ~ 2023.08)</p>
-	<p>🔘 현대자동차그룹 소프티어 부트캠프 4기 - 웹프론트엔드 (2024.07 ~ 2024.08)</p>
-	<p>🔘 LG유플러스 유레카 SW교육 2기 - 프론트엔드 (2025.01 ~ 2025.08)</p>
+	<p>🔘 현대자동차그룹 소프티어 부트캠프 4기 - FE (2024.07 ~ 2024.08)</p>
+	<p>🔘 LG유플러스 유레카 SW교육 2기 - FE (2025.01 ~ 2025.08)</p>
 </div>
 <br>
 <div align=center>
 	<h3>📜 Certificate & Award 📜</h3>
-	<p>🔘 SQLD(2023.12.15)</p>
-	<p>🔘 TOPCIT 수준3(2024.05.18)</p>
+	<p>🔘 SQLD (2023.12.15)</p>
+	<p>🔘 TOPCIT Level 3 (2024.05.18)</p>
 	<p>🔘 경기대학교 2024 캡스톤디자인 산학협력 프로젝트 경진대회 은상 (2024.06.07)</p>
-	<p>🔘 정보처리기사(2024.12.11)</p>
+	<p>🔘 정보처리기사 (2024.12.11)</p>
 </div>
 
 
