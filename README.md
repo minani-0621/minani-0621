@@ -8,6 +8,7 @@
 <br>
 <div align=center>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cm2hcm2h"/>
+	<img src="http://mazandi.herokuapp.com/api?handle=cm2hcm2h&theme=dark"/>
 </div>
 
 <br>
